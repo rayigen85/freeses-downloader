@@ -1,0 +1,14 @@
+{
+  "_output_dir": "/home/rayigen85/develop",
+  "_template": "gh:cjolowicz/cookiecutter-hypermodern-python",
+  "author": "Raymond Baruth",
+  "copyright_year": "2023",
+  "development_status": "Development Status :: 4 - Beta",
+  "email": "ray@raybit.de",
+  "friendly_name": "Freeses Downloader",
+  "github_user": "rayigen85",
+  "license": "MIT",
+  "package_name": "freeses_downloader",
+  "project_name": "freeses-downloader",
+  "version": "0.1.0"
+}
